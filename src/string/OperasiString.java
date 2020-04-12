@@ -12,5 +12,10 @@ public class OperasiString {
 
         String nama = "Ahmad Yasir";
         System.out.println(nama);
+
+        System.out.println(kota.toUpperCase());
+        System.out.println(kota.toLowerCase());
+        System.out.println(kota.substring(5));
+        System.out.println(kota.substring(0,4));
     }
 }
